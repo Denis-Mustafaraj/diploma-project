@@ -1,0 +1,622 @@
+kategoria,total_shembuj,nr_portale,portalet
+Lajme,921241,11,"Ballkani, GazetaBlic, GazetaExpress, Indeksonline, Insajderi, Kallxo.com, Klankosova, Kungulli, Lajme_al, Lajmi_net, Telegrafi"
+Kosovë,187050,3,"Insajderi, Lajme_al, Telegrafi"
+Sport,176990,14,"Ballkani, Bota_al, GazetaExpress, Indeksonline, Insajderi, JavaNews_al, Kallxo.com, Klankosova, Kungulli, Lajme_al, Lajmi_net, Telegrafi, VizionPlus, abcNews"
+Showbiz,87130,5,"Ballkani, Indeksonline, Kungulli, VizionPlus, abcNews"
+Ndërkombëtare,86410,1,Telegrafi
+Sporti,83118,1,GazetaBlic
+Bota,79944,6,"Bota_al, Insajderi, JavaNews_al, Lajmi_net, VizionPlus, abcNews"
+Nga Bota,73246,1,Telegrafi
+Maqedonia e Veriut,62414,1,Telegrafi
+Showtime,53404,1,GazetaBlic
+Politikë,53321,4,"JavaNews_al, Lajme_al, Lajmi_net, Telegrafi"
+Yjet,52507,2,"GazetaExpress, Telegrafi"
+Shkurt,46692,1,Kallxo.com
+Shqipëri,42629,1,Telegrafi
+Lifestyle,35940,6,"Indeksonline, Insajderi, Klankosova, Lajmi_net, Telegrafi, VizionPlus"
+Kronika e Zezë,35458,1,Telegrafi
+Shqiperi,34239,1,GazetaExpress
+Ekonomi,30508,9,"Bota_al, Indeksonline, JavaNews_al, Klankosova, Lajme_al, Lajmi_net, Telegrafi, VizionPlus, abcNews"
+Magazina,28662,1,Telegrafi
+Premier League,28643,2,"Lajmi_net, Telegrafi"
+Serie A,25660,2,"Lajmi_net, Telegrafi"
+Rozë,24832,2,"GazetaExpress, Lajme_al"
+Aktualitet,22796,4,"JavaNews_al, Lajme_al, VizionPlus, abcNews"
+Fun Lajme,21239,1,Telegrafi
+CultBiz,20800,1,Insajderi
+Kuriozitete,20175,9,"Bota_al, Indeksonline, JavaNews_al, Kallxo.com, Klankosova, Lajme_al, Lajmi_net, Telegrafi, abcNews"
+La Liga,19434,2,"Lajmi_net, Telegrafi"
+Shëndet,18732,4,"Klankosova, Lajme_al, Telegrafi, abcNews"
+Shëndetësi,16918,2,"Indeksonline, Telegrafi"
+Maqedoni,16129,2,"GazetaExpress, Telegrafi"
+Të Tjera,14611,2,"Klankosova, Telegrafi"
+Evropa,13823,1,Telegrafi
+Muzikë,12967,3,"Kallxo.com, Klankosova, Telegrafi"
+Opinione,12940,2,"Ballkani, Telegrafi"
+Cool,12681,1,GazetaBlic
+Uncategorized,12297,8,"Bota_al, GazetaBlic, Indeksonline, Kallxo.com, Klankosova, Shekulli, Telegrafi, VizionPlus"
+Indeks+,12205,1,Indeksonline
+Kryesoret,11892,2,"JavaNews_al, VizionPlus"
+Interesante,11681,1,Telegrafi
+Biznes,10356,2,"Insajderi, Telegrafi"
+Kulturë,10019,8,"Indeksonline, Insajderi, JavaNews_al, Kallxo.com, Klankosova, Lajme_al, Telegrafi, abcNews"
+Fun,10017,4,"Ballkani, GazetaExpress, Lajmi_net, Telegrafi"
+Liga e Kampionëve,9818,2,"Lajmi_net, Telegrafi"
+Gjatë,9399,1,Kallxo.com
+English,9112,3,"GazetaExpress, Telegrafi, abcNews"
+Po Flitet,8616,1,Telegrafi
+Superliga,8447,2,"Klankosova, Telegrafi"
+Përmbledhje Lajmeve,8405,1,Kallxo.com
+Shëndetësi Lajme,8325,1,Telegrafi
+Rajoni,8019,3,"Lajmi_net, VizionPlus, abcNews"
+Sport vendor,7736,1,Telegrafi
+Vendi,7692,1,VizionPlus
+Përfaqësueset,7631,1,Telegrafi
+Botë,7407,3,"Kallxo.com, Lajme_al, Telegrafi"
+Politike,7176,1,VizionPlus
+Marketing,7117,1,Telegrafi
+Komunat,7068,1,Telegrafi
+Financa,6841,2,"Klankosova, Telegrafi"
+Sociale,6811,4,"JavaNews_al, Lajmi_net, Telegrafi, VizionPlus"
+Mobile,6518,1,Telegrafi
+Kronike,6431,1,VizionPlus
+Auto Lajme,6387,1,Telegrafi
+Tech,6147,2,"Indeksonline, Insajderi"
+Ballkani,5961,1,Ballkani
+TV / Film,5941,1,Telegrafi
+Amerika,5653,1,Telegrafi
+Drejtësi,5533,1,Telegrafi
+Bundesliga,5353,2,"Lajmi_net, Telegrafi"
+Opinion,5200,7,"GazetaBlic, Indeksonline, JavaNews_al, Lajme_al, Lajmi_net, VizionPlus, abcNews"
+Arsim,5186,2,"Kallxo.com, Telegrafi"
+Përfaqësuesja e Kosovës,5110,1,Telegrafi
+Kronikë e Zezë,5088,1,Telegrafi
+Lajme Teknologji,4997,1,Telegrafi
+Ndryshe,4682,1,Kallxo.com
+Auto,4417,3,"Indeksonline, Lajmi_net, Telegrafi"
+Ligue 1,4400,1,Telegrafi
+Cult+,4097,1,Telegrafi
+Azia,4052,1,Telegrafi
+Ligat tjera,3824,1,Telegrafi
+Modë,3755,1,Telegrafi
+Dështime,3742,1,Telegrafi
+Analiza,3522,2,"Bota_al, Telegrafi"
+Geek,3519,2,"GazetaBlic, Telegrafi"
+Të Gjitha,3508,1,abcNews
+Stil,3467,4,"Bota_al, Indeksonline, Telegrafi, abcNews"
+Siguri,3208,1,Telegrafi
+Këshilla mjekësore,3010,2,"Klankosova, Telegrafi"
+Kombëtarja e Shqipërisë,2989,1,Telegrafi
+Gjyqësi,2837,1,Telegrafi
+Energjetika,2744,1,Telegrafi
+Modelet e Reja,2538,1,Telegrafi
+Teknologji,2488,8,"Bota_al, JavaNews_al, Kallxo.com, Lajme_al, Lajmi_net, Telegrafi, VizionPlus, abcNews"
+Psikologji,2360,2,"Bota_al, Telegrafi"
+Aplikacione,2348,1,Telegrafi
+Liga e Evropës,2338,1,Telegrafi
+Boks,2305,1,Telegrafi
+Fitnes,2301,2,"Indeksonline, Kallxo.com"
+Paparaci,2250,1,Indeksonline
+Shneta,2176,1,GazetaExpress
+Histori,2147,2,"Bota_al, Telegrafi"
+NBA,2129,1,Telegrafi
+Internet,2089,1,Telegrafi
+Zodiak,2064,1,Bota_al
+Super Liga,2019,1,Telegrafi
+Shkupi,1940,1,Telegrafi
+Estetikë,1911,1,Telegrafi
+Këshilla Lifestyle,1831,1,Telegrafi
+Kultura,1820,1,Telegrafi
+Cult,1774,1,GazetaBlic
+Barsoleta,1745,1,Telegrafi
+Video,1722,5,"Ballkani, Bota_al, Indeksonline, Insajderi, abcNews"
+Shkencë,1657,2,"Telegrafi, VizionPlus"
+Horizonti.al,1640,1,Bota_al
+Të tjera,1627,2,"Lajmi_net, Telegrafi"
+eSports,1625,1,Telegrafi
+Magazine,1621,1,Bota_al
+Kryesore,1591,1,Lajme_al
+Your Life,1555,1,Bota_al
+Bujqësi,1522,2,"Klankosova, Telegrafi"
+Basketboll,1455,3,"GazetaExpress, Klankosova, Telegrafi"
+Ballkan,1442,2,"Telegrafi, abcNews"
+Kuzhina,1360,2,"Ballkani, Telegrafi"
+Jeta në Kosovë,1340,1,Kallxo.com
+Poezi,1334,1,Telegrafi
+OP-ED,1333,1,Insajderi
+Enciklopedike,1305,1,Bota_al
+Auto Fun,1303,1,Telegrafi
+Prishtina,1272,1,Telegrafi
+Moda,1263,2,"Klankosova, Telegrafi"
+Flokë dhe stil,1252,1,Telegrafi
+Rishikime,1239,1,Telegrafi
+Zgjedhjet 2019,1217,3,"GazetaBlic, Kallxo.com, Telegrafi"
+Bëje vet,1187,1,Telegrafi
+Xhudo,1136,1,Telegrafi
+Serbia,1117,1,Telegrafi
+ZGJEDHJET,1097,1,Indeksonline
+Trend,1096,1,Telegrafi
+Turqia,1075,1,Telegrafi
+Futboll,1073,3,"GazetaExpress, Klankosova, Telegrafi"
+Life,1073,1,Insajderi
+Fakte,1038,1,Telegrafi
+Kujdesi për lëkurën dhe trupin,1033,1,Telegrafi
+Zodiak Ditor,1014,1,Bota_al
+Media Sociale,1010,2,"Kallxo.com, Telegrafi"
+Shqip+,975,1,Lajme_al
+Në çift,972,1,Telegrafi
+Fjala+,968,1,Telegrafi
+Këshilla dhe arsye,966,1,Telegrafi
+Të njohim produktet,961,1,Telegrafi
+Shkence,946,1,Bota_al
+Televizioni7,946,1,GazetaExpress
+Sporte tjera,935,2,"GazetaExpress, Telegrafi"
+Drejtësia në Kosovë,934,1,Kallxo.com
+Mjekësi alternative,933,1,Telegrafi
+Kosova,893,3,"JavaNews_al, Klankosova, VizionPlus"
+Ngjarje,883,2,"Kallxo.com, Telegrafi"
+Artikull i Sponsoruar,875,1,Kallxo.com
+Intimitet dhe Pasion,862,1,Telegrafi
+Kulture,837,2,"Bota_al, VizionPlus"
+Covid19,802,1,Bota_al
+Rajon,800,2,"Kallxo.com, Lajme_al"
+Shendeti,799,1,Bota_al
+Keshilla Modë,759,1,Telegrafi
+Intervista,734,3,"Ballkani, GazetaExpress, Telegrafi"
+ZZZFun,726,1,Bota_al
+Mali i Zi,717,1,Telegrafi
+Formula 1,715,2,"Klankosova, Telegrafi"
+Hendboll,693,2,"Klankosova, Telegrafi"
+Parlamentare,691,1,Telegrafi
+Thenie,670,1,Bota_al
+OP/ED,670,1,GazetaExpress
+Nutricion,666,1,Telegrafi
+Sportet Luftarake,665,2,"Klankosova, Telegrafi"
+Zgjedhjet,632,4,"GazetaBlic, Kallxo.com, Lajmi_net, Telegrafi"
+Shtatzëna,625,1,Telegrafi
+Temat Javore,625,1,Telegrafi
+Botërori2018,599,1,Indeksonline
+Lojëra,588,1,Telegrafi
+Afrika,580,1,Telegrafi
+Këshilla për prindër,565,1,Telegrafi
+Foto,560,1,Bota_al
+Amerika Latine,560,1,Telegrafi
+Rajoni dhe Bota,557,1,Klankosova
+Arte,554,1,GazetaExpress
+Grim,541,1,Telegrafi
+Motivuese,541,1,Bota_al
+Këshilla Estetike,510,1,Telegrafi
+Tenis,503,1,Telegrafi
+Lugina,459,1,Telegrafi
+Ushqim i shëndetshëm,449,1,Telegrafi
+Mistere,445,2,"Bota_al, GazetaExpress"
+Këshilla,440,3,"Bota_al, Insajderi, Kallxo.com"
+Anash,439,1,VizionPlus
+Letersi,436,1,Bota_al
+Nacionale,434,1,Lajmi_net
+AutoTech,429,1,GazetaExpress
+Këshilla dhe ide,420,1,Telegrafi
+*Kryesore,412,1,abcNews
+Astrologji,411,1,Telegrafi
+Ndërtim i muskujve,411,1,Telegrafi
+Bosnja,406,1,Telegrafi
+Shëndeti,399,2,"Kallxo.com, Lajmi_net"
+Covid 19,394,2,"JavaNews_al, VizionPlus"
+Prindër dhe fëmijë,393,1,Telegrafi
+Virale,385,1,Telegrafi
+Psikoprofil,385,1,Telegrafi
+Zgjedhjet 2021,379,1,GazetaExpress
+a1Instant,370,1,abcNews
+Çfarë të vizitosh,356,1,Telegrafi
+Filmi,353,1,Telegrafi
+Pjata kryesore,353,1,Telegrafi
+Prodhime Vendore,347,1,Telegrafi
+Supërliga,347,1,Telegrafi
+Rreth Botës,338,1,Indeksonline
+Australia,335,1,Telegrafi
+Lule,327,1,Telegrafi
+EVs,323,1,Telegrafi
+Kroacia,322,1,Telegrafi
+In Girl,313,1,Indeksonline
+Prive,312,1,Klankosova
+Nga duart tua,296,1,Telegrafi
+Fëmija juaj,295,1,Telegrafi
+Kërshëri,290,1,Telegrafi
+Liga Unike,283,1,Telegrafi
+Big Brother VIP,279,1,Klankosova
+Dosje,279,1,Lajme_al
+Aktivitete sportive,279,1,Telegrafi
+Auto-Tech,279,1,abcNews
+In Boy,278,1,Indeksonline
+Indeks Photo,276,1,Indeksonline
+Femra,275,1,Telegrafi
+Receta Gatimi,273,1,abcNews
+Oreksndjellëse,270,1,Telegrafi
+Intervista e ditës,264,1,VizionPlus
+Horoskopi,263,3,"JavaNews_al, Klankosova, abcNews"
+Gossip,262,1,VizionPlus
+Muzika,259,1,Telegrafi
+Ushqimi dhe Dieta,258,1,Telegrafi
+UFC,257,1,Telegrafi
+Kujdesi për kafshët,255,1,Telegrafi
+Dietë,253,1,Telegrafi
+Zgjedhjet 2020,252,1,Telegrafi
+Ëmbëlsirë,248,1,Telegrafi
+Bukuri dhe Kujdes,242,1,Telegrafi
+Personazhe,239,1,Bota_al
+Moti,239,2,"Telegrafi, abcNews"
+*Anash,222,1,abcNews
+AKTUALITET,220,1,Shekulli
+Autotech,218,1,Ballkani
+Magazinë,217,1,Indeksonline
+Greqia,215,1,Telegrafi
+Për nënat,210,1,Telegrafi
+Kuize,210,1,Lajmi_net
+Zgjedhjet 2017,203,1,GazetaBlic
+Liga e Parë,203,1,Telegrafi
+Si të…,202,1,Telegrafi
+Video Virale,202,1,Klankosova
+Video Lajme,201,1,Klankosova
+Karriera,200,1,Telegrafi
+Polici dhe Gjyqësi,200,1,Klankosova
+Pa Kategori,197,1,GazetaExpress
+Ferma Vip,195,1,VizionPlus
+Sport / Fitnes,194,1,Telegrafi
+Shqipëria,191,1,Klankosova
+Koncepte,191,1,Telegrafi
+Analizë,185,1,Kallxo.com
+Futsall,183,1,Telegrafi
+Rregullimi i shtëpisë,173,1,Telegrafi
+Atletikë,170,1,Telegrafi
+Fotografia,170,1,Telegrafi
+Speciale,168,1,Bota_al
+Piktura,168,1,Telegrafi
+Teatri,167,1,Telegrafi
+Kuzhina e huaj,167,1,Telegrafi
+Bebja këtu,162,1,Telegrafi
+Shkurt e Shqip,159,1,GazetaExpress
+Eurocup - FIBA,158,1,Telegrafi
+Manikyr dhe pedikyr,151,1,Telegrafi
+Këshilla Teknologjike,150,1,Telegrafi
+ABC-ja e Mëngjesit,149,1,abcNews
+MAIN,147,1,Bota_al
+News,146,1,Insajderi
+Kopshtaria,144,1,Telegrafi
+Zodiak MeB,142,1,Bota_al
+Tendencë,141,1,JavaNews_al
+Entertainment,140,1,Lajmi_net
+Dizajn dhe Arkitekturë,140,1,Telegrafi
+Horizonte,136,1,Bota_al
+A e dini se...,135,1,Telegrafi
+Shtëpi të bukura,132,1,Telegrafi
+Libri,128,1,Telegrafi
+Fitnes në shtëpi,124,1,Telegrafi
+Kronikë,115,2,"JavaNews_al, Kallxo.com"
+Zgjedhje 2017,112,1,VizionPlus
+Shtëpi dhe kopsht,111,1,Telegrafi
+Karate,110,1,Telegrafi
+Gjykata,109,1,Kallxo.com
+Kulturë/Arte,108,1,Lajmi_net
+Ligji,106,1,Kallxo.com
+Real Story,100,1,abcNews
+KORONAVIRUS,99,1,Indeksonline
+Libri i madh i kafshëve,99,1,Telegrafi
+Gurmania,94,1,Telegrafi
+Receta,94,2,"Insajderi, Lajmi_net"
+Udhëtime,93,1,Telegrafi
+Policia,91,1,Kallxo.com
+Mendime,90,1,Kallxo.com
+Shtëpi dhe dekor,88,1,Telegrafi
+AutoMoto,86,1,Telegrafi
+Sllovenia,86,1,Telegrafi
+Fokus 2,84,1,Insajderi
+Aksesorë,83,1,Telegrafi
+Dua bebe,83,1,Telegrafi
+Përfaqësuesja e Maqedonisë,82,1,Telegrafi
+Punime shkencore,82,1,Telegrafi
+-Politikë,82,1,abcNews
+Këshilla për kafshët,81,1,Telegrafi
+Sallata,81,1,Telegrafi
+Intimitet dhe pasion,80,1,Telegrafi
+Nunc est Bibendum,79,1,Bota_al
+Fotolajm,77,1,Lajmi_net
+Fokus 1,76,1,Insajderi
+Të fundit,76,1,abcNews
+Bebja,75,1,Telegrafi
+Shëndetesi,75,1,JavaNews_al
+Udhëpërshkrime,74,1,Telegrafi
+Në çdo kohë,73,1,Telegrafi
+Volejboll,72,1,Telegrafi
+Lajm nga Komuna,71,1,Kallxo.com
+KALLXO Rinia,71,1,Kallxo.com
+Shpalljet,69,1,Indeksonline
+Gjykata Speciale,68,1,Kallxo.com
+Kozmetikë,66,1,Telegrafi
+Fokus 3,65,1,Insajderi
+Bullgaria,64,1,Telegrafi
+Enigma,63,1,Bota_al
+Joga,62,1,Telegrafi
+Pije dhe Kokteje,60,1,Telegrafi
+Filozofi,60,1,Bota_al
+Supa,60,1,Telegrafi
+Dukagjini,60,1,Telegrafi
+On Intervista,59,1,Klankosova
+Si të udhëtosh,58,1,Telegrafi
+Sport dhe Fitnes,57,1,Telegrafi
+Desert,51,1,Telegrafi
+Dossier,51,3,"Indeksonline, JavaNews_al, abcNews"
+Prototipe,51,1,Telegrafi
+Hulumtim,50,1,Kallxo.com
+Pica,48,1,Telegrafi
+Hi-Tech,47,1,Indeksonline
+Sallonet,47,1,Telegrafi
+Editorial,46,1,JavaNews_al
+Prishtinë,46,1,Telegrafi
+Tunning,46,1,Telegrafi
+Intervistë,45,2,"JavaNews_al, Kallxo.com"
+Oferta,45,1,Lajme_al
+Seks,44,1,Telegrafi
+Mite e Legjenda,44,1,Bota_al
+Rumania,44,1,Telegrafi
+Pyet Mjekun,44,1,Telegrafi
+Debat,44,2,"GazetaBlic, Kallxo.com"
+*Fokus,42,1,abcNews
+Euro 2016,42,2,"Insajderi, JavaNews_al"
+Kardio ushtrime,42,1,Telegrafi
+Muzike,41,2,"Bota_al, GazetaExpress"
+Komplote,40,1,Bota_al
+Dosja,40,1,Kallxo.com
+Kuzhina tradicionale,40,1,Telegrafi
+PamArt,40,1,Telegrafi
+360 Gradë,37,1,abcNews
+Korrespondent,37,1,abcNews
+Moto GP,37,1,Telegrafi
+Skulptura,36,1,Telegrafi
+Lajme futbolli,36,1,Lajmi_net
+Argëtim,35,2,"Bota_al, Lajmi_net"
+Make Up,35,1,Insajderi
+LoveSex,34,1,Lajmi_net
+Pjata speciale,34,1,Telegrafi
+Pingpong,33,1,Telegrafi
+Pressing,32,1,abcNews
+Edicioni Qëndror,32,1,abcNews
+Turshi,32,1,Telegrafi
+EuroLiga,31,1,Telegrafi
+Komuna,30,1,Kallxo.com
+Antipasta,30,1,Telegrafi
+News Hour,30,1,abcNews
+Reportazh,30,1,Kallxo.com
+Auditim,28,1,Kallxo.com
+Shendetesi Lajme,27,1,Telegrafi
+ShowBiz,27,1,Lajmi_net
+Deals,27,1,Telegrafi
+Salca,26,1,Telegrafi
+Përtej shijes,25,1,Telegrafi
+Tranzicioni: Çfarë shkoi mirë? Çfarë shkoi keq?,24,1,Bota_al
+Kik-Boks,24,1,Telegrafi
+Receta vegjetariane,24,1,Telegrafi
+Prokuroria,23,1,Kallxo.com
+EXTRA,23,1,Shekulli
+Dashuri dhe Seks,23,1,Telegrafi
+News Line,23,1,abcNews
+Akullore,23,1,Telegrafi
+Keshilla Mjekesore,22,1,Telegrafi
+Log.,21,1,abcNews
+ABC Live,21,1,abcNews
+#KallxoPernime,21,1,Kallxo.com
+Special Report,21,1,abcNews
+Edicioni i Fundit,20,1,abcNews
+Infographics,20,1,Bota_al
+Mistere e Legjenda,20,1,Bota_al
+Mundje,20,1,Telegrafi
+Produkte Vendore,20,1,Kallxo.com
+Klinikat / Ordinancat,19,1,Telegrafi
+Këshillë javore,19,1,Telegrafi
+Yje,19,1,Klankosova
+Sheshi i Dollarit,18,1,abcNews
+Profil,18,2,"Kallxo.com, Telegrafi"
+Kampionati i Kosovës,18,1,Telegrafi
+Libër,17,1,Klankosova
+Spiritualitet,17,1,Lajme_al
+Virtual Wars,16,1,abcNews
+Për fëmijë,16,1,Telegrafi
+shendet,16,1,abcNews
+EtikNet,16,1,Bota_al
+Black Friday,16,1,Telegrafi
+Trajnime,16,1,Telegrafi
+Deserte,16,1,Telegrafi
+Articles,16,1,Bota_al
+Covid-19,15,1,Klankosova
+Nuk është karantinë,15,1,abcNews
+Provokacija,15,1,abcNews
+Ndërkombëtar,15,2,"Kallxo.com, Klankosova"
+hulumtime,15,1,Insajderi
+Javanews VideoKoment,15,1,JavaNews_al
+Zgjedhjet2019,15,1,GazetaExpress
+Receta gatimi,14,1,Telegrafi
+Seksi dhe Dashuria,14,1,Telegrafi
+Liga Ballkanike,14,1,Telegrafi
+SPORT,14,1,Shekulli
+Tirana Live,14,1,abcNews
+Keshillat e nutricionistes,14,1,abcNews
+Ushqim dhe Pije,14,1,Telegrafi
+Rusia 2018,13,1,Telegrafi
+Kukunews,13,1,Insajderi
+Rrëfim,13,1,Kallxo.com
+Prishtina e Re,13,1,Telegrafi
+Stadiumet,12,1,Telegrafi
+Shqipëria sot,12,1,abcNews
+Shendetesi,12,1,Telegrafi
+Lufta dhe Paqja,12,1,abcNews
+Edicioni Mesditës,12,1,abcNews
+Impakti,11,1,Kallxo.com
+Realiteti Shqiptar,11,1,Bota_al
+BOTA,11,1,Shekulli
+Bukuroshja,11,1,Lajmi_net
+Dizajn,11,1,Telegrafi
+Zyre,10,1,Telegrafi
+Familja,10,2,"Lajmi_net, Telegrafi"
+Artikull i sponsorizuar,10,1,GazetaExpress
+Lajme nga Bashkimi Evropian,10,1,Bota_al
+Kuzhinë,10,1,JavaNews_al
+Nga duart e tua,10,1,Telegrafi
+Emisione,10,2,"Kallxo.com, abcNews"
+Nga e para,10,1,VizionPlus
+Big Brother VIP 4,10,1,Klankosova
+Ti njohim Deputetët,10,1,Kallxo.com
+Deklarimet e Pasurisë,10,1,Kallxo.com
+Miremengjes me Bashkim Hoxhen,9,1,abcNews
+Ushqimi/Dieta,9,1,GazetaExpress
+Money Report,9,1,abcNews
+Bardh a Zi,9,1,abcNews
+Refleksione,9,1,abcNews
+Fact-Check,9,1,Kallxo.com
+Gjilan,9,1,Telegrafi
+Kino,9,1,Indeksonline
+Exlibris,9,1,JavaNews_al
+Pejë,9,1,Telegrafi
+Dragodan/Arbëri,9,1,Telegrafi
+Te Tjera,9,1,Telegrafi
+Newsroom,8,1,abcNews
+Intervista Në Studio,8,1,abcNews
+Prizren,8,1,Telegrafi
+Fushë Kosovë,8,1,Telegrafi
+Lakrishtë,8,1,Telegrafi
+Jashtë Kutisë,8,1,abcNews
+ABC Story,7,1,abcNews
+Coronavirus,7,1,Kallxo.com
+Style Star Show,7,1,abcNews
+Udhetim e Turizem,7,1,Bota_al
+Antarktiku,7,1,Telegrafi
+Karikatura,7,1,Telegrafi
+POLICA,6,1,Kallxo.com
+Gjerat tona,6,1,abcNews
+Shneta tjera,6,1,GazetaExpress
+Vetting,6,1,abcNews
+ABC e pasdites,6,1,abcNews
+Shifra,6,1,Kallxo.com
+Si të ...,6,1,Bota_al
+Real Estate,6,1,Telegrafi
+Bregu i Diellit,5,1,Telegrafi
+Lagjia e Muhaxherëve,5,1,Telegrafi
+Film - Teatër,5,1,Kallxo.com
+Shkencë e Teknologji,5,1,Bota_al
+Foto galeri,5,1,abcNews
+Viral,5,1,Klankosova
+E ardhmja ështe Vajzë,5,1,abcNews
+CovidPlus,5,1,abcNews
+Sporte Të tjera,5,1,Klankosova
+Balkan Update,5,1,abcNews
+Byro Politike,5,1,abcNews
+Videos,5,1,Bota_al
+Rally,5,1,Telegrafi
+Veternik,4,1,Telegrafi
+Qendër,4,1,Telegrafi
+Ligat Evropiane,4,1,Klankosova
+Friends Zone,4,1,abcNews
+Rrjetet Sociale,4,1,Lajmi_net
+Ide,4,2,"Bota_al, Indeksonline"
+Arch,4,1,Telegrafi
+Aktash,4,1,Telegrafi
+Kalabri,4,1,Telegrafi
+N’kufi,4,1,abcNews
+Keshilla Mjekësore,4,1,GazetaExpress
+Fashion,4,1,Indeksonline
+Inovacion,4,1,VizionPlus
+Big Brother VIP 3,4,1,Klankosova
+Gjykimi Special,3,1,Klankosova
+Kino dhe Teatër,3,1,Klankosova
+Zëri i Shqiptarëve,3,1,abcNews
+Moti në Shqipëri,3,1,abcNews
+Box Pop,3,1,abcNews
+Zone e lire,3,1,abcNews
+Gurët e shtëpisë time,3,1,abcNews
+Faqja 4,3,1,abcNews
+Pushime 2016,3,1,JavaNews_al
+Video Gazmore,3,1,JavaNews_al
+POLITIKË,3,1,Shekulli
+Zbulime mjekësore,3,1,Klankosova
+Rruga C,3,1,Telegrafi
+Kosherja,3,1,abcNews
+Obiliq,3,1,Telegrafi
+Fit,3,1,Lajmi_net
+Instant,3,1,GazetaExpress
+SHOWBIZ,3,1,Shekulli
+Të Gjitha Rrugët të Çojnë në Romë,3,1,abcNews
+Pas Mesnate,3,1,abcNews
+TV/Film,2,1,GazetaExpress
+Punësimet,2,1,Kallxo.com
+Soirée,2,1,abcNews
+Ukrainë,2,1,Kallxo.com
+As Pro as Kunder,2,1,abcNews
+Rrëfime,2,1,Kallxo.com
+Big Brother VIP 2,2,1,Klankosova
+4 Llullat,2,1,Telegrafi
+Intervista e Ditës,2,1,Indeksonline
+Meditim,2,1,Telegrafi
+Rusi 2018,2,2,"JavaNews_al, VizionPlus"
+Media në Tranzicion,2,1,JavaNews_al
+Rruga B,2,1,Telegrafi
+Kafshë,2,1,Telegrafi
+Kodra e Trimave,2,1,Telegrafi
+Mëlmesa,2,1,Telegrafi
+Fjalët,2,1,Telegrafi
+Energjia Efikase,2,1,Lajmi_net
+Sporti Vendor,2,1,Lajmi_net
+Celebrities,2,1,Bota_al
+Shtërpcë,2,1,Telegrafi
+Mati,2,1,Telegrafi
+Sofali,2,1,Telegrafi
+Zgjedhjet 2025,1,1,Ballkani
+Piranjat,1,1,abcNews
+EURO KUQEZI,1,1,abcNews
+nan,1,1,Ballkani
+War Report,1,1,abcNews
+Pa kategori,1,1,Bota_al
+Në plan të parë,1,1,JavaNews_al
+Shtypi i ditës,1,1,JavaNews_al
+SUMMER 2018,1,1,JavaNews_al
+Galeria,1,1,Insajderi
+Çka të hamë ?,1,1,Indeksonline
+Ditari Kuqezi nga Sokol Balla,1,1,abcNews
+Pas raportimit,1,1,Kallxo.com
+Lajme Elektorale,1,1,Kallxo.com
+Skena,1,1,Telegrafi
+TruthHub,1,1,Bota_al
+COVID-19,1,1,Lajmi_net
+Lista,1,1,Kungulli
+Mali i zi,1,1,Telegrafi
+Merkato,1,1,Lajmi_net
+Music,1,1,Lajmi_net
+Suharekë,1,1,Telegrafi
+Qafa,1,1,Telegrafi
+Mitrovicë,1,1,Telegrafi
+Lipjan,1,1,Telegrafi
+Zgjedhjet Maqedoni,1,1,Telegrafi
+Lajm,1,1,Kallxo.com
+Op-Ed,1,1,Lajmi_net
+Kafet e Vogla,1,1,Telegrafi
+Blockchain,1,1,Telegrafi
+EMIGRANTËT,1,1,Shekulli
+Premtimet Elektorale,1,1,Kallxo.com
+Albania's Got Talent,1,1,VizionPlus
+Arkiva,1,1,VizionPlus
+Vushtrri,1,1,Telegrafi
+Universitet,1,1,Kallxo.com
+Zgjedhejt 2025,1,1,Klankosova
+Mbrëmje ne ABC,1,1,abcNews
+Habitus,1,1,abcNews
+Zllatar,1,1,Telegrafi
+Euro 2024,1,1,Klankosova
+Politika në ABC,1,1,abcNews
+Moti në Maqedoninë e Veriut,1,1,abcNews
+Moti në Kosovë,1,1,abcNews
+ETIKA ME 2 FJALE,1,1,Bota_al
+Superliga e Zvicres Futboll,1,1,Klankosova
+Lexuesit për Klan Kosova,1,1,Klankosova
+T'ka mami yll,1,1,abcNews
+Vendor,1,1,Klankosova
+Arte pamore,1,1,Klankosova
+Auto Sport,1,1,Klankosova
+Dating,1,1,abcNews
+Doktor Plastik,1,1,abcNews
