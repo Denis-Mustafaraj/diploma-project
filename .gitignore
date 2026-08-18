@@ -1,1 +1,4 @@
-data/processed/dataset_final.csv
+data/
+*.csv
+venv/
+__pycache__/
