@@ -1,0 +1,8 @@
+{
+  "model": "distilbert-base-multilingual-cased",
+  "test_accuracy": 0.858856259659969,
+  "test_f1_macro": 0.8570067001747769,
+  "test_loss": 0.8611657023429871,
+  "training_time_sec": 3847.27,
+  "epochs": 3
+}

@@ -1,0 +1,27 @@
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning (baseline)
+scikit-learn>=1.3.0
+
+# Deep Learning / Transformers (fine-tuning, kërkon GPU për performancë praktike)
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+evaluate>=0.4.0
+accelerate>=0.20.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Notebook environment
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Kaggle API (për shkarkimin e dataset-it)
+kaggle>=1.5.16
+
+# Statistical testing (McNemar's test)
+statsmodels>=0.14.0

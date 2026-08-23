@@ -1,0 +1,16 @@
+{
+  "model": "xlm-roberta-base",
+  "test_accuracy": 0.877,
+  "test_f1_macro": 0.876,
+  "per_class_f1": {
+    "Bot\u00eb": 0.89,
+    "Ekonomi": 0.91,
+    "Kultur\u00eb": 0.9,
+    "Kuriozitete": 0.73,
+    "Lifestyle": 0.73,
+    "Politik\u00eb": 0.96,
+    "Showbiz": 0.93,
+    "Sh\u00ebndet": 0.84,
+    "Sport": 0.98
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": "distilbert-base-multilingual-cased",
+  "test_accuracy": 0.86,
+  "test_f1_macro": 0.86,
+  "per_class_f1": {
+    "Bot\u00eb": 0.88,
+    "Ekonomi": 0.9,
+    "Kultur\u00eb": 0.89,
+    "Kuriozitete": 0.69,
+    "Lifestyle": 0.69,
+    "Politik\u00eb": 0.95,
+    "Showbiz": 0.92,
+    "Sh\u00ebndet": 0.82,
+    "Sport": 0.98
+  }
+}

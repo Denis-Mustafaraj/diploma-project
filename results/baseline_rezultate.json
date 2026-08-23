@@ -1,0 +1,12 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.8412,
+    "macro_f1": 0.8405,
+    "training_time_sec": 15.95
+  },
+  "SVM": {
+    "accuracy": 0.8361,
+    "macro_f1": 0.8348,
+    "training_time_sec": 14.07
+  }
+}

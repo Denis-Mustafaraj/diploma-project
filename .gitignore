@@ -1,4 +1,28 @@
-data/
-*.csv
+# Virtual environment
 venv/
+env/
+*.venv
+
+# Data files (shumë të mëdha për GitHub — shih data/README.md për si të riprodhosh)
+data/raw/
+data/processed/*.csv
+
+# Model weights (shumë të mëdha — ruajtur në Kaggle, jo në Git)
+*.safetensors
+*.bin
+models/
+
+# Kaggle credentials
+kaggle.json
+
+# Python
 __pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+*.ipynb_checkpoints
