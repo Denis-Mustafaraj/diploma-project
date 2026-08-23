@@ -10,7 +10,8 @@ data/processed/*.csv
 # Model weights (shumë të mëdha — ruajtur në Kaggle, jo në Git)
 *.safetensors
 *.bin
-models/
+models/*
+!models/README.md
 
 # Kaggle credentials
 kaggle.json
