@@ -1,0 +1,7 @@
+{
+  "model": "xlm-roberta-base",
+  "test_accuracy": 0.8766,
+  "test_f1_macro": 0.8755,
+  "training_time_sec": 7581.0993,
+  "epochs": 3
+}
