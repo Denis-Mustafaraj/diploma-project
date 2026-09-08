@@ -1,0 +1,29 @@
+{
+  "SVM_vs_DistilBERT": {
+    "n11": 12718,
+    "n10": 836,
+    "n01": 1174,
+    "n00": 1447,
+    "chi_square": 56.502,
+    "p_value": 0.0,
+    "statistikisht_domethenes": true
+  },
+  "DistilBERT_vs_XLMR": {
+    "n11": 13397,
+    "n10": 495,
+    "n01": 782,
+    "n00": 1501,
+    "chi_square": 64.0532,
+    "p_value": 0.0,
+    "statistikisht_domethenes": true
+  },
+  "SVM_vs_XLMR": {
+    "n11": 12902,
+    "n10": 652,
+    "n01": 1277,
+    "n00": 1344,
+    "chi_square": 201.8538,
+    "p_value": 0.0,
+    "statistikisht_domethenes": true
+  }
+}
