@@ -8,7 +8,7 @@ Për shkak të madhësisë (dataset-i origjinal ~8.6 GB, dataset-i final i përp
 kaggle datasets download -d gentrexha/kosovo-news-articles-dataset -p data/raw --unzip
 ```
 
-(Kërkon Kaggle API të konfiguruar — shih [dokumentacionin zyrtar](https://github.com/Kaggle/kaggle-api))
+(Kërkon Kaggle API të konfiguruar — dokumentacionin zyrtar(https://github.com/Kaggle/kaggle-api))
 
 ## 2. Ndërto dataset-in final
 
